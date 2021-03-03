@@ -2,7 +2,7 @@
   <h3 align="center">CCNA - CISCO 💻</h3>
 
   <p align="center">
-    CCNA material from my Networking class. Engineering Faculty, UNAM.
+    CCNA material. Engineering Faculty, UNAM.
   <p/>
 </p>
 

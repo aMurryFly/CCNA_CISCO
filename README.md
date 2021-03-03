@@ -12,7 +12,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#Built With (Software)">Built With</a></li>
+        <li><a href="#Built With">Built With</a></li>
       </ul>
     </li>
     <!--<li>
@@ -37,7 +37,7 @@
 Hey! I was* part of the CCNA program on the Engineering Faculty of UNAM, if you want to expand your knowledge about this topics, just come and read about it !
 
 
-### Built With (Software)
+### Built With
 
 This section is a list of programs, frameworks or even IDE's that you need to have to use this material.
 -  [CISCO Packet Tracer 8.0](hhttps://www.netacad.com/courses/packet-tracer)

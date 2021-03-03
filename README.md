@@ -72,7 +72,9 @@ This is an example of how to list things you need to use the software and how to
 4. Enter your API in `config.js`
    ```JS
    const API_KEY = 'ENTER YOUR API'; 
--->   ```
+  ```
+--> 
+
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.

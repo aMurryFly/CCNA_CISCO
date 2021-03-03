@@ -40,7 +40,7 @@ Hey! I was* part of the CCNA program on the Engineering Faculty of UNAM, if you 
 ### Built With (Software)
 
 This section is a list of programs, frameworks or even IDE's that you need to have to use this material.
-* [CISCO Packet Tracer 8.0](hhttps://www.netacad.com/courses/packet-tracer)
+-  [CISCO Packet Tracer 8.0](hhttps://www.netacad.com/courses/packet-tracer)
 
 
 
